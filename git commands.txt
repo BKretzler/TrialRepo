@@ -1,0 +1,5 @@
+git status  #checks current status of repositoru
+git add -A #ads altered and untracked files to staging area
+git comitt -am "<some message>" # commit changes with message
+git push #pushes the local changes to online repository
+git pull #usually at the begining of work flow, pulls changes to local repository
